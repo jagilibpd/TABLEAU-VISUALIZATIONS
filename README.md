@@ -17,4 +17,6 @@ https://public.tableau.com/views/TableauvizActivity7_16673052681850/Dashboard1?:
 
 https://public.tableau.com/views/TableauvizActivity7/Story1?:language=en-US&:display_count=n&:origin=viz_share_link (8)
 
-https://public.tableau.com/views/TableauVizActivity9/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link (9)
+https://public.tableau.com/views/TableauVizActivity9/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link (9) W-1
+
+https://public.tableau.com/views/TableauVizActivity10w2/HRDataForTechieLtd?:language=en-US&:display_count=n&:origin=viz_share_link(10) W-2
